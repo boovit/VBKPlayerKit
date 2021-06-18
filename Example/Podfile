@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'VBKPlayerKit_Example' do
+  pod 'VBKPlayerKit', :path => '../'
+
+  target 'VBKPlayerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
