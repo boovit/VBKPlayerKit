@@ -1,0 +1,16 @@
+PODS:
+  - VBKPlayerKit (0.1.0)
+
+DEPENDENCIES:
+  - VBKPlayerKit (from `../`)
+
+EXTERNAL SOURCES:
+  VBKPlayerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VBKPlayerKit: ebb153476db59598b7f99f90fdbeca676c8d9098
+
+PODFILE CHECKSUM: 4ebb3fcbd7d415c4a9900f75a87f543929d2b7f9
+
+COCOAPODS: 1.10.1

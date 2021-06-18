@@ -1,0 +1,6 @@
+framework module VBKPlayerKit {
+  umbrella header "VBKPlayerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_VBKPlayerKit_Example {
+  umbrella header "Pods-VBKPlayerKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
